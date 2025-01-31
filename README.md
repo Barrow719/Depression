@@ -43,4 +43,4 @@ Family History of Mental Illness: Indicates whether the student has a family his
 
 Depression: The target variable indicating whether the student is depressed (1 for depressed, 0 for not depressed).
 
-Dataset source: Kaggle named "Student Depression"
+Dataset source: Kaggle named "Depression Student"
