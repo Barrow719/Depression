@@ -1,1 +1,1 @@
-# Depression
+Can we predict a student's likelihood of experiencing depression based on various factors such as academic pressure, sleep duration, dietary habits, family mental health history, CGPA, and other socio-environmental variables?
